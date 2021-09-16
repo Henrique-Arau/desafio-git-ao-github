@@ -1,0 +1,28 @@
+Git Hub
+
+Link de instalação https://git-scm.com/downloads
+
+como Clonar o repositorio no servidor local
+
+git clone (Nome do repositorio)
+
+verificar se o projeto está ok
+
+git status
+
+depois que fazer as alterações no repositorio fazer o commit para salvar.
+
+git add .
+
+
+no meu deu um problema porcausa do email
+
+entao eu coloquei
+
+git config --global user.email "you@example.com"
+
+corrigiu o problema de email
+
+depois que salvar todos arquivos no servidor e hora de carregar ele no git hub
+
+git 
