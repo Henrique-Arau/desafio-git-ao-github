@@ -12,6 +12,10 @@ git status
 
 depois que fazer as alterações no repositorio fazer o commit para salvar.
 
+git commit -m "mensagem"
+
+depois adiciona o repositorio
+
 git add .
 
 
