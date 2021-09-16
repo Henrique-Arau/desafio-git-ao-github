@@ -25,4 +25,4 @@ corrigiu o problema de email
 
 depois que salvar todos arquivos no servidor e hora de carregar ele no git hub
 
-git 
+git push origin main
